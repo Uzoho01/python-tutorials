@@ -1,0 +1,4 @@
+firstname = Amaka
+lastname = victor
+occpation = student
+best colour = blue
